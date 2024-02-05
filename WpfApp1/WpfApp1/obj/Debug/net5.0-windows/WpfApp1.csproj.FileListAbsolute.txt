@@ -20,3 +20,5 @@ E:\shokurov\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\refint\WpfApp1.dll
 E:\shokurov\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.pdb
 E:\shokurov\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\WpfApp1.genruntimeconfig.cache
 E:\shokurov\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\ref\WpfApp1.dll
+E:\shokurov\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\Window1.g.cs
+E:\shokurov\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\Window1.baml
